@@ -1,0 +1,617 @@
+{
+  "name": "Container Number Test Data",
+  "description": "Shipping container numbers with a correctly computed ISO 6346 check digit. Owner codes are synthetic.",
+  "source": "https://stanzaapi.com/datasets/container",
+  "license": "CC0-1.0",
+  "validity": "engine-validated",
+  "size": "small",
+  "count": 100,
+  "columns": [
+    "container_number",
+    "owner_code",
+    "serial",
+    "check_digit"
+  ],
+  "rows": [
+    {
+      "container_number": "TWXU8621503",
+      "owner_code": "TWXU",
+      "serial": "862150",
+      "check_digit": 3
+    },
+    {
+      "container_number": "ATKU6758380",
+      "owner_code": "ATKU",
+      "serial": "675838",
+      "check_digit": 0
+    },
+    {
+      "container_number": "MNOU0930167",
+      "owner_code": "MNOU",
+      "serial": "093016",
+      "check_digit": 7
+    },
+    {
+      "container_number": "CGPU9411135",
+      "owner_code": "CGPU",
+      "serial": "941113",
+      "check_digit": 5
+    },
+    {
+      "container_number": "JLZU4442418",
+      "owner_code": "JLZU",
+      "serial": "444241",
+      "check_digit": 8
+    },
+    {
+      "container_number": "IQQU8837146",
+      "owner_code": "IQQU",
+      "serial": "883714",
+      "check_digit": 6
+    },
+    {
+      "container_number": "KWBU4141860",
+      "owner_code": "KWBU",
+      "serial": "414186",
+      "check_digit": 0
+    },
+    {
+      "container_number": "RVVU4233134",
+      "owner_code": "RVVU",
+      "serial": "423313",
+      "check_digit": 4
+    },
+    {
+      "container_number": "GJGU5360080",
+      "owner_code": "GJGU",
+      "serial": "536008",
+      "check_digit": 0
+    },
+    {
+      "container_number": "LILU6749662",
+      "owner_code": "LILU",
+      "serial": "674966",
+      "check_digit": 2
+    },
+    {
+      "container_number": "YPSU4819629",
+      "owner_code": "YPSU",
+      "serial": "481962",
+      "check_digit": 9
+    },
+    {
+      "container_number": "LXYU5106236",
+      "owner_code": "LXYU",
+      "serial": "510623",
+      "check_digit": 6
+    },
+    {
+      "container_number": "NJFU6675573",
+      "owner_code": "NJFU",
+      "serial": "667557",
+      "check_digit": 3
+    },
+    {
+      "container_number": "FXCU1299025",
+      "owner_code": "FXCU",
+      "serial": "129902",
+      "check_digit": 5
+    },
+    {
+      "container_number": "RLFU0225665",
+      "owner_code": "RLFU",
+      "serial": "022566",
+      "check_digit": 5
+    },
+    {
+      "container_number": "SBZU6918992",
+      "owner_code": "SBZU",
+      "serial": "691899",
+      "check_digit": 2
+    },
+    {
+      "container_number": "TYRU2696231",
+      "owner_code": "TYRU",
+      "serial": "269623",
+      "check_digit": 1
+    },
+    {
+      "container_number": "OPJU6316490",
+      "owner_code": "OPJU",
+      "serial": "631649",
+      "check_digit": 0
+    },
+    {
+      "container_number": "TOYU9387172",
+      "owner_code": "TOYU",
+      "serial": "938717",
+      "check_digit": 2
+    },
+    {
+      "container_number": "KBDU0128634",
+      "owner_code": "KBDU",
+      "serial": "012863",
+      "check_digit": 4
+    },
+    {
+      "container_number": "RDKU5720940",
+      "owner_code": "RDKU",
+      "serial": "572094",
+      "check_digit": 0
+    },
+    {
+      "container_number": "VIIU9602557",
+      "owner_code": "VIIU",
+      "serial": "960255",
+      "check_digit": 7
+    },
+    {
+      "container_number": "YBYU8284185",
+      "owner_code": "YBYU",
+      "serial": "828418",
+      "check_digit": 5
+    },
+    {
+      "container_number": "GZJU9593144",
+      "owner_code": "GZJU",
+      "serial": "959314",
+      "check_digit": 4
+    },
+    {
+      "container_number": "IVEU5243463",
+      "owner_code": "IVEU",
+      "serial": "524346",
+      "check_digit": 3
+    },
+    {
+      "container_number": "IITU4104042",
+      "owner_code": "IITU",
+      "serial": "410404",
+      "check_digit": 2
+    },
+    {
+      "container_number": "LCZU5262539",
+      "owner_code": "LCZU",
+      "serial": "526253",
+      "check_digit": 9
+    },
+    {
+      "container_number": "ETJU9166852",
+      "owner_code": "ETJU",
+      "serial": "916685",
+      "check_digit": 2
+    },
+    {
+      "container_number": "PICU6103875",
+      "owner_code": "PICU",
+      "serial": "610387",
+      "check_digit": 5
+    },
+    {
+      "container_number": "WXHU8598888",
+      "owner_code": "WXHU",
+      "serial": "859888",
+      "check_digit": 8
+    },
+    {
+      "container_number": "KAPU8088315",
+      "owner_code": "KAPU",
+      "serial": "808831",
+      "check_digit": 5
+    },
+    {
+      "container_number": "ABXU7465853",
+      "owner_code": "ABXU",
+      "serial": "746585",
+      "check_digit": 3
+    },
+    {
+      "container_number": "BGSU0305235",
+      "owner_code": "BGSU",
+      "serial": "030523",
+      "check_digit": 5
+    },
+    {
+      "container_number": "QRPU5451243",
+      "owner_code": "QRPU",
+      "serial": "545124",
+      "check_digit": 3
+    },
+    {
+      "container_number": "DXIU2183390",
+      "owner_code": "DXIU",
+      "serial": "218339",
+      "check_digit": 0
+    },
+    {
+      "container_number": "EKBU7472516",
+      "owner_code": "EKBU",
+      "serial": "747251",
+      "check_digit": 6
+    },
+    {
+      "container_number": "GGGU2779040",
+      "owner_code": "GGGU",
+      "serial": "277904",
+      "check_digit": 0
+    },
+    {
+      "container_number": "XNQU8666803",
+      "owner_code": "XNQU",
+      "serial": "866680",
+      "check_digit": 3
+    },
+    {
+      "container_number": "BGFU3834648",
+      "owner_code": "BGFU",
+      "serial": "383464",
+      "check_digit": 8
+    },
+    {
+      "container_number": "GFJU0063800",
+      "owner_code": "GFJU",
+      "serial": "006380",
+      "check_digit": 0
+    },
+    {
+      "container_number": "LLYU8520462",
+      "owner_code": "LLYU",
+      "serial": "852046",
+      "check_digit": 2
+    },
+    {
+      "container_number": "JOTU4855221",
+      "owner_code": "JOTU",
+      "serial": "485522",
+      "check_digit": 1
+    },
+    {
+      "container_number": "NCAU3045494",
+      "owner_code": "NCAU",
+      "serial": "304549",
+      "check_digit": 4
+    },
+    {
+      "container_number": "ALQU6639967",
+      "owner_code": "ALQU",
+      "serial": "663996",
+      "check_digit": 7
+    },
+    {
+      "container_number": "RSOU9961136",
+      "owner_code": "RSOU",
+      "serial": "996113",
+      "check_digit": 6
+    },
+    {
+      "container_number": "NROU2416767",
+      "owner_code": "NROU",
+      "serial": "241676",
+      "check_digit": 7
+    },
+    {
+      "container_number": "AOGU4410241",
+      "owner_code": "AOGU",
+      "serial": "441024",
+      "check_digit": 1
+    },
+    {
+      "container_number": "EXPU1583392",
+      "owner_code": "EXPU",
+      "serial": "158339",
+      "check_digit": 2
+    },
+    {
+      "container_number": "HWVU3059816",
+      "owner_code": "HWVU",
+      "serial": "305981",
+      "check_digit": 6
+    },
+    {
+      "container_number": "KHOU7873058",
+      "owner_code": "KHOU",
+      "serial": "787305",
+      "check_digit": 8
+    },
+    {
+      "container_number": "FTJU5922504",
+      "owner_code": "FTJU",
+      "serial": "592250",
+      "check_digit": 4
+    },
+    {
+      "container_number": "YQVU6702880",
+      "owner_code": "YQVU",
+      "serial": "670288",
+      "check_digit": 0
+    },
+    {
+      "container_number": "COAU7361596",
+      "owner_code": "COAU",
+      "serial": "736159",
+      "check_digit": 6
+    },
+    {
+      "container_number": "EMSU7717369",
+      "owner_code": "EMSU",
+      "serial": "771736",
+      "check_digit": 9
+    },
+    {
+      "container_number": "SBMU3517491",
+      "owner_code": "SBMU",
+      "serial": "351749",
+      "check_digit": 1
+    },
+    {
+      "container_number": "WHYU5490710",
+      "owner_code": "WHYU",
+      "serial": "549071",
+      "check_digit": 0
+    },
+    {
+      "container_number": "WMEU8035270",
+      "owner_code": "WMEU",
+      "serial": "803527",
+      "check_digit": 0
+    },
+    {
+      "container_number": "PJVU0671496",
+      "owner_code": "PJVU",
+      "serial": "067149",
+      "check_digit": 6
+    },
+    {
+      "container_number": "YVVU9776743",
+      "owner_code": "YVVU",
+      "serial": "977674",
+      "check_digit": 3
+    },
+    {
+      "container_number": "WFCU2083330",
+      "owner_code": "WFCU",
+      "serial": "208333",
+      "check_digit": 0
+    },
+    {
+      "container_number": "KCWU6952201",
+      "owner_code": "KCWU",
+      "serial": "695220",
+      "check_digit": 1
+    },
+    {
+      "container_number": "NUXU3135616",
+      "owner_code": "NUXU",
+      "serial": "313561",
+      "check_digit": 6
+    },
+    {
+      "container_number": "OJEU5973360",
+      "owner_code": "OJEU",
+      "serial": "597336",
+      "check_digit": 0
+    },
+    {
+      "container_number": "LWMU9341677",
+      "owner_code": "LWMU",
+      "serial": "934167",
+      "check_digit": 7
+    },
+    {
+      "container_number": "HTKU3637458",
+      "owner_code": "HTKU",
+      "serial": "363745",
+      "check_digit": 8
+    },
+    {
+      "container_number": "MFDU4455126",
+      "owner_code": "MFDU",
+      "serial": "445512",
+      "check_digit": 6
+    },
+    {
+      "container_number": "YQKU8735588",
+      "owner_code": "YQKU",
+      "serial": "873558",
+      "check_digit": 8
+    },
+    {
+      "container_number": "VTKU4344931",
+      "owner_code": "VTKU",
+      "serial": "434493",
+      "check_digit": 1
+    },
+    {
+      "container_number": "RCOU6255639",
+      "owner_code": "RCOU",
+      "serial": "625563",
+      "check_digit": 9
+    },
+    {
+      "container_number": "NYAU0613275",
+      "owner_code": "NYAU",
+      "serial": "061327",
+      "check_digit": 5
+    },
+    {
+      "container_number": "ETIU7233916",
+      "owner_code": "ETIU",
+      "serial": "723391",
+      "check_digit": 6
+    },
+    {
+      "container_number": "PRWU4869242",
+      "owner_code": "PRWU",
+      "serial": "486924",
+      "check_digit": 2
+    },
+    {
+      "container_number": "HDRU7263647",
+      "owner_code": "HDRU",
+      "serial": "726364",
+      "check_digit": 7
+    },
+    {
+      "container_number": "WYFU8601878",
+      "owner_code": "WYFU",
+      "serial": "860187",
+      "check_digit": 8
+    },
+    {
+      "container_number": "BTJU6872507",
+      "owner_code": "BTJU",
+      "serial": "687250",
+      "check_digit": 7
+    },
+    {
+      "container_number": "AODU7912371",
+      "owner_code": "AODU",
+      "serial": "791237",
+      "check_digit": 1
+    },
+    {
+      "container_number": "VUUU8971398",
+      "owner_code": "VUUU",
+      "serial": "897139",
+      "check_digit": 8
+    },
+    {
+      "container_number": "XSEU9573306",
+      "owner_code": "XSEU",
+      "serial": "957330",
+      "check_digit": 6
+    },
+    {
+      "container_number": "KAPU2036119",
+      "owner_code": "KAPU",
+      "serial": "203611",
+      "check_digit": 9
+    },
+    {
+      "container_number": "SEOU1938874",
+      "owner_code": "SEOU",
+      "serial": "193887",
+      "check_digit": 4
+    },
+    {
+      "container_number": "WFJU0833620",
+      "owner_code": "WFJU",
+      "serial": "083362",
+      "check_digit": 0
+    },
+    {
+      "container_number": "RXIU7938451",
+      "owner_code": "RXIU",
+      "serial": "793845",
+      "check_digit": 1
+    },
+    {
+      "container_number": "XLCU3130548",
+      "owner_code": "XLCU",
+      "serial": "313054",
+      "check_digit": 8
+    },
+    {
+      "container_number": "GHMU6901806",
+      "owner_code": "GHMU",
+      "serial": "690180",
+      "check_digit": 6
+    },
+    {
+      "container_number": "XFKU8755832",
+      "owner_code": "XFKU",
+      "serial": "875583",
+      "check_digit": 2
+    },
+    {
+      "container_number": "VCJU3394459",
+      "owner_code": "VCJU",
+      "serial": "339445",
+      "check_digit": 9
+    },
+    {
+      "container_number": "ZACU8590945",
+      "owner_code": "ZACU",
+      "serial": "859094",
+      "check_digit": 5
+    },
+    {
+      "container_number": "HWEU5587520",
+      "owner_code": "HWEU",
+      "serial": "558752",
+      "check_digit": 0
+    },
+    {
+      "container_number": "IHXU6743521",
+      "owner_code": "IHXU",
+      "serial": "674352",
+      "check_digit": 1
+    },
+    {
+      "container_number": "GJJU6475510",
+      "owner_code": "GJJU",
+      "serial": "647551",
+      "check_digit": 0
+    },
+    {
+      "container_number": "BRZU5183070",
+      "owner_code": "BRZU",
+      "serial": "518307",
+      "check_digit": 0
+    },
+    {
+      "container_number": "ZHKU1758943",
+      "owner_code": "ZHKU",
+      "serial": "175894",
+      "check_digit": 3
+    },
+    {
+      "container_number": "YLAU7215330",
+      "owner_code": "YLAU",
+      "serial": "721533",
+      "check_digit": 0
+    },
+    {
+      "container_number": "NTGU3709858",
+      "owner_code": "NTGU",
+      "serial": "370985",
+      "check_digit": 8
+    },
+    {
+      "container_number": "QKKU7654747",
+      "owner_code": "QKKU",
+      "serial": "765474",
+      "check_digit": 7
+    },
+    {
+      "container_number": "XWPU3467737",
+      "owner_code": "XWPU",
+      "serial": "346773",
+      "check_digit": 7
+    },
+    {
+      "container_number": "YHHU6488094",
+      "owner_code": "YHHU",
+      "serial": "648809",
+      "check_digit": 4
+    },
+    {
+      "container_number": "TSLU9073460",
+      "owner_code": "TSLU",
+      "serial": "907346",
+      "check_digit": 0
+    },
+    {
+      "container_number": "XASU1914390",
+      "owner_code": "XASU",
+      "serial": "191439",
+      "check_digit": 0
+    },
+    {
+      "container_number": "ICZU9123944",
+      "owner_code": "ICZU",
+      "serial": "912394",
+      "check_digit": 4
+    }
+  ]
+}
